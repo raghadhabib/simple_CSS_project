@@ -1,0 +1,129 @@
+.page-content {
+    background-image: url(../img/background.jpg);
+    
+    margin: 0;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+
+    position: relative;
+    padding: 0;
+}
+
+.top-header {
+    text-align: center;
+    background-color: #333333;
+    position: absolute;
+    top:1.5em;
+    left:20.9em; 
+    width:700px;
+    height: 300px;
+    color: white;
+    letter-spacing: 4px;
+}
+
+hr{
+    width:100px;
+    background-color: white;
+    border-radius: 4px;
+}
+#title{
+    letter-spacing: 10px;
+    border: 2px solid white;
+    display: inline-block;
+    padding:10px 30px 10px 30px;
+    margin-top: 65px;
+}
+
+#par1{
+    margin-bottom: 14px;
+}
+
+
+.wrapper {
+    position: relative;
+    height: 1150px;
+}
+
+
+aside{
+    background-color: #d1ddd3;
+    width: 250px;
+    height: 700px;
+    position: absolute;
+    top:20.4em;
+    left:20.9em;
+    margin-top: -2px;
+}
+
+#leftdiv{
+    padding: 20px;
+    padding-right: 35px;
+    padding-top: 50px;
+    font-weight: lighter;
+    text-align:right;
+    letter-spacing: 3.5px;
+    line-height: 20px;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+
+#leftdiv h2{
+    letter-spacing: 8px;
+    font-size: 15px;
+    
+    
+}
+#leftdiv small{
+    letter-spacing: 1px;
+    font-style: italic;
+    font-size: 12px;
+    margin-top: 0px;
+}
+#leftdiv h3 {
+    word-spacing: 3px;
+    margin-top: 1px;
+    letter-spacing: 2px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    font-size: 15px;
+    
+}
+#lasth{
+    margin-top: 30px;
+    margin-bottom: 18px;
+}
+
+#lastp{
+    line-height: 28px;
+}
+#rightdiv{
+    
+    background-color: #ffffff;
+    width:450px;
+    height:700px ;
+    position: absolute;
+    top:20.22em;
+    left:36.5em;
+    padding-left:35px ;
+    padding-right: 60px;
+    box-sizing: border-box;
+    padding-top: 50px;
+}
+#rightdiv h1{
+    letter-spacing: 8px;
+    font-size: 15px;
+    margin-top: 14px;
+
+}
+#rightdiv p{
+    word-spacing: 1.5px;
+    font-size: 13px;
+    text-align: justify;
+    line-height: 19px;
+}
+#rightdiv h2{
+    letter-spacing: 2px;
+    font-size: 13px;
+    margin-top: 23px;
+    margin-bottom: 1px;
+}
